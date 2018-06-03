@@ -22,7 +22,21 @@ Terraria
 Grand Theft Auto 3
 Amnesia
 Resident Evil 3/2/1
-
+Doom
+Starwars : The Old Republic
+Counter Strike Online
+Project Zomboid
+Fortnite
+7 Days to Die
+Team Buddies
+Plant vs Zombies : Garden Warfare 2
+Luigi's Mansion
+Dino Crisis
+Parasite Eve
+Roblox
+Team Fortress 2
+Zombies Ate My Neighbors
+Noct
 
 
 () -> Genre Type
@@ -69,7 +83,7 @@ Graphic Low
 								Multiplayer :
 										survive____________________________________________________________________________________(Survival)								 : Starwars : The Old Republic
 										shooter____________________________________________________________________________________(Shooter)							 	 : Counter Strike Online
-										paranormal_________________________________________________________________________________(Horror)									 : Counter Strike Online
+										paranormal_________________________________________________________________________________(Horror)									 : Project Zomboid
 										survive, shooter___________________________________________________________________________(Survival-Shooter)        : Fortnite
 										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         : 7 Days to Die
 
@@ -86,4 +100,4 @@ Graphic Low
 										shooter____________________________________________________________________________________(Shooter)							 	 : Team Fortress 2
 										paranormal_________________________________________________________________________________(Horror)									 : Zombies Ate My Neighbors
 										survive, shooter___________________________________________________________________________(Survival-Shooter)        : Fortnite
-										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         : Days to Die
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         : Noct
