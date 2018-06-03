@@ -3,7 +3,7 @@ Game recommendation
 () -> Genre Type
 
 Graphic High
-		Dewasa
+		Mature
 										Single Player :
 											survive____________________________________________________________________________________(Survival)								 : ARK Survival Evolved
 											shooter____________________________________________________________________________________(Shooter)							 	 : Call of Duty
@@ -18,29 +18,29 @@ Graphic High
 
 										Co- op :
 											survive____________________________________________________________________________________(Survival)								 : Don't Starve Together
-											shooter____________________________________________________________________________________(Shooter)							 	 : Call of Duty
+											shooter____________________________________________________________________________________(Shooter)							 	 : Payday 2
 											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 : Assassin's Creed : Unity
 											paranormal_________________________________________________________________________________(Horror)									 : Cry of Fear
 
 											survive, shooter___________________________________________________________________________(Survival-Shooter)        : Minecraft
 											survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        : Splinter Cell : Blacklist
 											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         : Left 4 Dead
-											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
-											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 : Dead by Daylight
+											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) : The Forest
 
 										Multiplayer :
-											survive____________________________________________________________________________________(Survival)								 :
-											shooter____________________________________________________________________________________(Shooter)							 	 :
-											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+											survive____________________________________________________________________________________(Survival)								 : Raft
+											shooter____________________________________________________________________________________(Shooter)							 	 : Call of Duty
+											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 : Assassin's Creed : Brotherhood
 											paranormal_________________________________________________________________________________(Horror)									 :
 
 											survive, shooter___________________________________________________________________________(Survival-Shooter)        : Minecraft
 											survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
 											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
-											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
-											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 : Dead by Daylight
+											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) : The Forest
 
-		Remaja
+		Teen
 									Single Player :
 											survive____________________________________________________________________________________(Survival)								 :
 											shooter____________________________________________________________________________________(Shooter)							 	 :
@@ -75,7 +75,7 @@ Graphic High
 											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
 											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
 
-		Netral
+		Everyone
 									Single Player :
 											survive____________________________________________________________________________________(Survival)								 :
 											shooter____________________________________________________________________________________(Shooter)							 	 :
@@ -111,7 +111,7 @@ Graphic High
 											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
 
 Graphic Low
-		Dewasa
+		Adult
 									Single Player :
 										survive____________________________________________________________________________________(Survival)								 :
 										shooter____________________________________________________________________________________(Shooter)							 	 :
