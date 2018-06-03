@@ -1,645 +1,428 @@
 Game recommendation
 
+() -> Genre Type
 
 Graphic High
-	Dewasa
-		Kompetitif
-			Single Player :
-				survive
-				shooter
-				hide
-				paranormal
+				Dewasa
+					Kompetitif
+									Single Player :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 : Alien Isolation
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
 
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
+									Co- op :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter, hide, paranormal
-			Co- op :
-				survive
-				shooter
-				hide
-				paranormal
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
 
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
+									Multiplayer :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+					Story
+										Single Player :
+											survive____________________________________________________________________________________(Survival)								 :
+											shooter____________________________________________________________________________________(Shooter)							 	 :
+											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+											paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter, hide, paranormal
-			Multiplayer :
-				survive
-				shooter
-				hide
-				paranormal
+											survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+											survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+										Co- op :
+											survive____________________________________________________________________________________(Survival)								 :
+											shooter____________________________________________________________________________________(Shooter)							 	 :
+											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+											paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
+											survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+											survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+										Multiplayer :
+											survive____________________________________________________________________________________(Survival)								 :
+											shooter____________________________________________________________________________________(Shooter)							 	 :
+											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+											paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
+											survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+											survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+				Remaja
+					Komptetitif
+									Single Player :
+											survive____________________________________________________________________________________(Survival)								 :
+											shooter____________________________________________________________________________________(Shooter)							 	 :
+											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+											paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter, hide, paranormal
-		Story
-			Single Player :
-				survive
-				shooter
-				hide
-				paranormal
+											survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+											survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+									Co- op :
+											survive____________________________________________________________________________________(Survival)								 :
+											shooter____________________________________________________________________________________(Shooter)							 	 :
+											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+											paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
+											survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+											survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+									Multiplayer :
+											survive____________________________________________________________________________________(Survival)								 :
+											shooter____________________________________________________________________________________(Shooter)							 	 :
+											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+											paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Co- op :
-				survive
-				shooter
-				hide
-				paranormal
+											survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+											survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+					Story
+									Single Player :
+											survive____________________________________________________________________________________(Survival)								 :
+											shooter____________________________________________________________________________________(Shooter)							 	 :
+											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+											paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
+											survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+											survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+									Co- op :
+											survive____________________________________________________________________________________(Survival)								 :
+											shooter____________________________________________________________________________________(Shooter)							 	 :
+											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+											paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Multiplayer :
-				survive
-				shooter
-				hide
-				paranormal
+											survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+											survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+									Multiplayer :
+											survive____________________________________________________________________________________(Survival)								 :
+											shooter____________________________________________________________________________________(Shooter)							 	 :
+											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+											paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
+											survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+											survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+				Netral
+					Komptetitif
+									Single Player :
+											survive____________________________________________________________________________________(Survival)								 :
+											shooter____________________________________________________________________________________(Shooter)							 	 :
+											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+											paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-	Remaja
-		Komptetitif
-			Single Player :
-				survive
-				shooter
-				hide
-				paranormal
+											survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+											survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+									Co- op :
+											survive____________________________________________________________________________________(Survival)								 :
+											shooter____________________________________________________________________________________(Shooter)							 	 :
+											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+											paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
+											survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+											survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+										Multiplayer :
+											survive____________________________________________________________________________________(Survival)								 :
+											shooter____________________________________________________________________________________(Shooter)							 	 :
+											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+											paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Co- op :
-				survive
-				shooter
-				hide
-				paranormal
+											survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+											survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+					Story
+									Single Player :
+											survive____________________________________________________________________________________(Survival)								 :
+											shooter____________________________________________________________________________________(Shooter)							 	 :
+											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+											paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
+											survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+											survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+									Co- op :
+											survive____________________________________________________________________________________(Survival)								 :
+											shooter____________________________________________________________________________________(Shooter)							 	 :
+											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+											paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Multiplayer :
-				survive
-				shooter
-				hide
-				paranormal
+											survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+											survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+									Multiplayer :
+											survive____________________________________________________________________________________(Survival)								 :
+											shooter____________________________________________________________________________________(Shooter)							 	 :
+											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+											paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
+											survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+											survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
 
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-		Story
-			Single Player :
-				survive
-				shooter
-				hide
-				paranormal
 
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
 
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Co- op :
-				survive
-				shooter
-				hide
-				paranormal
-
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
-
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Multiplayer :
-				survive
-				shooter
-				hide
-				paranormal
-
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
-
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-	Netral
-		Komptetitif
-			Single Player :
-				survive
-				shooter
-				hide
-				paranormal
-
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
-
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Co- op :
-				survive
-				shooter
-				hide
-				paranormal
-
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
-
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Multiplayer :
-				survive
-				shooter
-				hide
-				paranormal
-
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
-
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-		Story
-			Single Player :
-				survive
-				shooter
-				hide
-				paranormal
-
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
-
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Co- op :
-				survive
-				shooter
-				hide
-				paranormal
-
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
-
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Multiplayer :
-				survive
-				shooter
-				hide
-				paranormal
-
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
-
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
 
 Graphic Low
-	Dewasa
-		Kompetitif
-			Single Player :
-				survive
-				shooter
-				hide
-				paranormal
+		Dewasa
+					Kompetitif
+									Single Player :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 : 
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
 
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Co- op :
-				survive
-				shooter
-				hide
-				paranormal
+									Co- op :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
 
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Multiplayer :
-				survive
-				shooter
-				hide
-				paranormal
+									Multiplayer :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+						Story
+									Single Player :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-		Story
-			Single Player :
-				survive
-				shooter
-				hide
-				paranormal
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+									Co- op :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+									Multiplayer :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Co- op :
-				survive
-				shooter
-				hide
-				paranormal
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+		Remaja
+					Komptetitif
+								Single Player :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+								Co- op :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Multiplayer :
-				survive
-				shooter
-				hide
-				paranormal
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+								Multiplayer :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+							Story
+								Single Player :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-	Remaja
-		Komptetitif
-			Single Player :
-				survive
-				shooter
-				hide
-				paranormal
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+								Co- op :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+								Multiplayer :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Co- op :
-				survive
-				shooter
-				hide
-				paranormal
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+		Netral
+					Komptetitif
+								Single Player :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+								Co- op :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Multiplayer :
-				survive
-				shooter
-				hide
-				paranormal
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+									Multiplayer :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+					Story
+								Single Player :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-		Story
-			Single Player :
-				survive
-				shooter
-				hide
-				paranormal
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+								Co- op :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
+								Multiplayer :
+										survive____________________________________________________________________________________(Survival)								 :
+										shooter____________________________________________________________________________________(Shooter)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										paranormal_________________________________________________________________________________(Horror)									 :
 
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Co- op :
-				survive
-				shooter
-				hide
-				paranormal
-
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
-
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Multiplayer :
-				survive
-				shooter
-				hide
-				paranormal
-
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
-
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-	Netral
-		Komptetitif
-			Single Player :
-				survive
-				shooter
-				hide
-				paranormal
-
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
-
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Co- op :
-				survive
-				shooter
-				hide
-				paranormal
-
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
-
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Multiplayer :
-				survive
-				shooter
-				hide
-				paranormal
-
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
-
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-		Story
-			Single Player :
-				survive
-				shooter
-				hide
-				paranormal
-
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
-
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Co- op :
-				survive
-				shooter
-				hide
-				paranormal
-
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
-
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-			Multiplayer :
-				survive
-				shooter
-				hide
-				paranormal
-
-				survive, shooter
-				survive, hide
-				survive, paranormal
-				shooter, hide
-				shooter, paranormal
-				hide, paranormal
-
-				survive, shooter, hide
-				survive, shooter, paranormal
-				shooter, hide, paranormal
-				hide, paraannormal, survive
-
-				Hi Bobby
-				Hi Marco
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
+										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
+										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
+										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
