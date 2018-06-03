@@ -1,5 +1,29 @@
 Game recommendation
 
+		ARK Survival Evolved
+		Call of Duty
+		Metal Gear Solid
+		JU-ON the Grudge
+		Far Cry 5
+		Alien Isolation
+		Outlast
+		Hello Neighbor
+		Metro : Last Light
+		Don't Starve Together
+		Payday 2
+		Assassin's Creed : Unity
+		Assassin's Creed : Brotherhood
+		Cry of Fear
+		Minecraft
+		Splinter Cell : Blacklist
+		Left 4 Dead
+		Dead by Daylight
+		The Forest
+		Raft
+		Fatal Frame
+		Hide and Shriek
+
+
 () -> Genre Type
 
 Graphic High
@@ -10,19 +34,19 @@ Graphic High
 											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 : Metal Gear Solid
 											paranormal_________________________________________________________________________________(Horror)									 : JU-ON the Grudge
 
-											survive, shooter___________________________________________________________________________(Survival-Shooter)        : Subnautica
+											survive, shooter___________________________________________________________________________(Survival-Shooter)        : Far Cry 5
 											survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        : Alien Isolation
 											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         : Outlast
 											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 : Hello Neighbor
 											shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) : Metro : Last Light
 
 										Co- op :
-											survive____________________________________________________________________________________(Survival)								 : Don't Starve Together
+											survive____________________________________________________________________________________(Survival)								 : GTA 5 Online
 											shooter____________________________________________________________________________________(Shooter)							 	 : Payday 2
 											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 : Assassin's Creed : Unity
 											paranormal_________________________________________________________________________________(Horror)									 : Cry of Fear
 
-											survive, shooter___________________________________________________________________________(Survival-Shooter)        : Minecraft
+											survive, shooter___________________________________________________________________________(Survival-Shooter)        : Far Cry 5
 											survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        : Splinter Cell : Blacklist
 											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         : Left 4 Dead
 											hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 : Dead by Daylight
@@ -32,7 +56,7 @@ Graphic High
 											survive____________________________________________________________________________________(Survival)								 : Raft
 											shooter____________________________________________________________________________________(Shooter)							 	 : Call of Duty
 											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 : Assassin's Creed : Brotherhood
-											paranormal_________________________________________________________________________________(Horror)									 :
+											paranormal_________________________________________________________________________________(Horror)									 : Dead by Daylight
 
 											survive, shooter___________________________________________________________________________(Survival-Shooter)        : Minecraft
 											survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
@@ -101,7 +125,7 @@ Graphic High
 										Multiplayer :
 											survive____________________________________________________________________________________(Survival)								 :
 											shooter____________________________________________________________________________________(Shooter)							 	 :
-											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+											hide / shooter, hide_______________________________________________________________________(Stealth)							 	 : Hide and Shriek
 											paranormal_________________________________________________________________________________(Horror)									 :
 
 											survive, shooter___________________________________________________________________________(Survival-Shooter)        :
@@ -148,7 +172,7 @@ Graphic Low
 										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
 										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
 
-		Remaja
+		Teen
 								Single Player :
 										survive____________________________________________________________________________________(Survival)								 :
 										shooter____________________________________________________________________________________(Shooter)							 	 :
@@ -161,9 +185,9 @@ Graphic Low
 										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
 										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
 								Co- op :
-										survive____________________________________________________________________________________(Survival)								 :
+										survive____________________________________________________________________________________(Survival)								 : Don't Starve Together
 										shooter____________________________________________________________________________________(Shooter)							 	 :
-										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
+										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 : The Escapists 2
 										paranormal_________________________________________________________________________________(Horror)									 :
 
 										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
@@ -183,7 +207,7 @@ Graphic Low
 										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
 										shooter, hide, paranormal / hide, paranormal, survive / survive, shooter, hide, paranormal_(Stealth-Survival-Horror) :
 
-		Netral
+		Everyone
 								Single Player :
 										survive____________________________________________________________________________________(Survival)								 :
 										shooter____________________________________________________________________________________(Shooter)							 	 :
@@ -201,7 +225,7 @@ Graphic Low
 										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
 										paranormal_________________________________________________________________________________(Horror)									 :
 
-										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        : Minecraft
 										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
 										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
 										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
@@ -212,7 +236,7 @@ Graphic Low
 										hide / shooter, hide_______________________________________________________________________(Stealth)							 	 :
 										paranormal_________________________________________________________________________________(Horror)									 :
 
-										survive, shooter___________________________________________________________________________(Survival-Shooter)        :
+										survive, shooter___________________________________________________________________________(Survival-Shooter)        : Minecraft
 										survive, hide / survive, shooter, hide_____________________________________________________(Survival-Stealth)        :
 										survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         :
 										hide, paranormal/__________________________________________________________________________(Stealth-Horror)	  			 :
