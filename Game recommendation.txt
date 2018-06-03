@@ -1,0 +1,643 @@
+Game recommendation
+
+
+Graphic High
+	Dewasa 
+		Kompetitif
+			Single Player :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+				 
+				survive, shooter, hide, paranormal
+			Co- op :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+				 
+				survive, shooter, hide, paranormal
+			Multiplayer :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+				 
+				survive, shooter, hide, paranormal
+		Story
+			Single Player :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Co- op :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Multiplayer :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+	Remaja
+		Komptetitif
+			Single Player :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Co- op :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Multiplayer :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+		Story
+			Single Player :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Co- op :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Multiplayer :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+	Netral
+		Komptetitif
+			Single Player :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Co- op :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Multiplayer :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+		Story
+			Single Player :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Co- op :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Multiplayer :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+
+Graphic Low
+	Dewasa 
+		Kompetitif
+			Single Player :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Co- op :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Multiplayer :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+		Story
+			Single Player :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Co- op :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Multiplayer :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+	Remaja
+		Komptetitif
+			Single Player :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Co- op :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Multiplayer :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+		Story
+			Single Player :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Co- op :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Multiplayer :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+	Netral
+		Komptetitif
+			Single Player :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Co- op :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Multiplayer :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+		Story
+			Single Player :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Co- op :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+			Multiplayer :
+				survive
+				shooter
+				hide
+				paranormal
+
+				survive, shooter
+				survive, hide
+				survive, paranormal
+				shooter, hide
+				shooter, paranormal
+				hide, paranormal
+
+				survive, shooter, hide
+				survive, shooter, paranormal
+				shooter, hide, paranormal
+				hide, paraannormal, survive
+
