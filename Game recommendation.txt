@@ -37,6 +37,7 @@ Roblox
 Team Fortress 2
 Zombies Ate My Neighbors
 Noct
+Left 4 Dead 2
 
 
 () -> Genre Type
@@ -69,7 +70,7 @@ Graphic High
 											shooter____________________________________________________________________________________(Shooter)							 	 : Overwatch
 											paranormal_________________________________________________________________________________(Horror)									 : Zombiu
 											survive, shooter___________________________________________________________________________(Survival-Shooter)        : Battlefield 4
-											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         : Dead by Daylight
+											survive, paranormal / shooter, paranormal / survive, shooter, paranormal___________________(Survival-Horror)         : Left 4 Dead 2
 
 Graphic Low
 
