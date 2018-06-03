@@ -2,7 +2,7 @@ Game recommendation
 
 
 Graphic High
-	Dewasa 
+	Dewasa
 		Kompetitif
 			Single Player :
 				survive
@@ -21,7 +21,7 @@ Graphic High
 				survive, shooter, paranormal
 				shooter, hide, paranormal
 				hide, paraannormal, survive
-				 
+
 				survive, shooter, hide, paranormal
 			Co- op :
 				survive
@@ -40,7 +40,7 @@ Graphic High
 				survive, shooter, paranormal
 				shooter, hide, paranormal
 				hide, paraannormal, survive
-				 
+
 				survive, shooter, hide, paranormal
 			Multiplayer :
 				survive
@@ -59,7 +59,7 @@ Graphic High
 				survive, shooter, paranormal
 				shooter, hide, paranormal
 				hide, paraannormal, survive
-				 
+
 				survive, shooter, hide, paranormal
 		Story
 			Single Player :
@@ -325,7 +325,7 @@ Graphic High
 				hide, paraannormal, survive
 
 Graphic Low
-	Dewasa 
+	Dewasa
 		Kompetitif
 			Single Player :
 				survive
@@ -641,3 +641,4 @@ Graphic Low
 				shooter, hide, paranormal
 				hide, paraannormal, survive
 
+				Hi Bobby
