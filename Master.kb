@@ -15,7 +15,7 @@ If [useGun] = "yes"
 Then [shooter] = "yes"
 
 RULE [5]
-If [war] = "yes"
+If [useGun] = "no" and [war] = "yes"
 Then [shooter] = "yes"
 
 RULE [6]
