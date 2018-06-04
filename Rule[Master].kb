@@ -385,7 +385,7 @@ Then [gameRecommendation] = "Zombies Ate My Neighbors"
 
 RULE [71]
 If [parentalGuidance] = "everyone"
-and [gameType] = "SS_multiplayer"
+and [gameType] = "SH_multiplayer"
 and [graphic] = "low"
 Then [gameRecommendation] = "Noct"
 
