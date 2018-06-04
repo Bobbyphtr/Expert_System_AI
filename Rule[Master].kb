@@ -3,7 +3,7 @@ If [itemManagement] = "yes"
 Then [survive] = "yes"
 
 RULE [2]
-If [limitedResources] = "yes"
+If [itemManagement] = "no" and [limitedResources] = "yes"
 Then [survive] = "yes"
 
 RULE [3]
