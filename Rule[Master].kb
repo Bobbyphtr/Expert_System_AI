@@ -388,3 +388,67 @@ If [parentalGuidance] = "everyone"
 and [gameType] = "SS multiplayer"
 and [graphic] = "low"
 Then [gameRecommendation] = "Noct"
+
+PROMPT [itemManagement] ForcedChoice CF
+"Do you like item management?"
+"yes"
+"no"
+
+PROMPT [limitedResources] ForcedChoice CF
+"Do you like playinig game with limited resources?"
+"yes"
+"no"
+
+PROMPT [useGun] ForcedChoice CF
+"Do you like using a gun?"
+"yes"
+"no"
+
+PROMPT [war] ForcedChoice CF
+"Do you like war?"
+"yes"
+"no"
+
+PROMPT [paranormal] ForcedChoice CF
+"Do you like something related to paranormal(zombie,ghost,etc)?"
+"yes"
+"no"
+
+PROMPT [opponent] ForcedChoice CF
+"Which will you choose to be your opponent?"
+"bot"
+"player"
+
+PROMPT [friends] ForcedChoice CF
+"Do you like playing with friends?"
+"yes"
+"no"
+
+PROMPT [violenceWords] ForcedChoice CF
+"Is it okay if the game contains swearing/threatening language?"
+"yes"
+"no"
+
+PROMPT [adultScene] ForcedChoice CF
+"Is it okay if the game contains adult scene?"
+"yes"
+"no"
+
+PROMPT [gore] ForcedChoice CF
+"Is it okay if the game contains gore?"
+"yes"
+"no"
+
+PROMPT [openWorld] ForcedChoice CF
+"Do you like open world game?"
+"yes"
+"no"
+
+PROMPT [dimension] ForcedChoice CF
+"What dimension do you like for your game?"
+"2d"
+"3d"
+
+GOAL [gameRecommendation]
+
+MINCF 100
