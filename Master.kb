@@ -420,7 +420,7 @@ PROMPT [war] ForcedChoice CF
 "no"
 
 PROMPT [paranormal] ForcedChoice CF
-"Do you like something related to paranormal?"
+"Do you like something related to paranormal?(zombie, ghost, etc)"
 "yes"
 "no"
 
