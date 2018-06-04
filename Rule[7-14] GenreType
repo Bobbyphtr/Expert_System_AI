@@ -1,0 +1,47 @@
+RULE [7]
+If [survive] = "yes" and
+[shooter] = "yes" and
+[paranormal] = "yes"
+Then [genreType] = "SH"
+
+RULE [8]
+If [survive] = "yes" and
+[shooter] = "yes" and
+[paranormal] = "no"
+Then [genreType] = "SS"
+
+RULE [9]
+If [survive] = "yes" and
+[shooter] = "no" and
+[paranormal] = "yes"
+Then [genreType] = "SH"
+
+RULE [10]
+If [survive] = "no" and
+[shooter] = "yes" and
+[paranormal] = "yes"
+Then [genreType] = "SH"
+
+RULE [11]
+If [survive] = "yes" and
+[shooter] = "no" and
+[paranormal] = "no"
+Then [genreType] = "survival"
+
+RULE [12]
+If [survive] = "no" and
+[shooter] = "yes" and
+[paranormal] = "no"
+Then [genreType] = "shooter"
+
+RULE [13]
+If [survive] = "no" and
+[shooter] = "no" and
+[paranormal] = "yes"
+Then [genreType] = "horror"
+
+RULE [14]
+If [survive] = "no" and
+[shooter] = "no" and
+[paranormal] = "no"
+Then [genreType] = "shooter"

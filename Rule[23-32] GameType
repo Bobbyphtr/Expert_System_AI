@@ -1,0 +1,49 @@
+RULE [23]
+If [playersType] = "singleplayer"
+and [genreType] = "survival"
+Then [gameType] = "survival singleplayer"
+
+RULE [24]
+If [playersType] = "multiplayer"
+and [genreType] = "survival"
+Then [gameType] = "survival multiplayer"
+
+RULE [25]
+If [playersType] = "singleplayer"
+and [genreType] = "shooter"
+Then [gameType] = "shooter singleplayer"
+
+RULE [26]
+If [playersType] = "multiplayer"
+and [genreType] = "shooter"
+Then [gameType] = "shooter multiplayer"
+
+RULE [27]
+If [playersType] = "singleplayer"
+and [genreType] = "horror"
+Then [gameType] = "horror singleplayer"
+
+RULE [28]
+If [playersType] = "multiplayer"
+and [genreType] = "horror"
+Then [gameType] = "horror multiplayer"
+
+RULE [29]
+If [playersType] = "singleplayer"
+and [genreType] = "SS"
+Then [gameType] = "SS singleplayer"
+
+RULE [30]
+If [playersType] = "multiplayer"
+and [genreType] = "SS"
+Then [gameType] = "SS multiplayer"
+
+RULE [31]
+If [playersType] = "singleplayer"
+and [genreType] = "SH"
+Then [gameType] = "SH singleplayer"
+
+RULE [32]
+If [playersType] = "multiplayer"
+and [genreType] = "SH"
+Then [gameType] = "SH multiplayer"

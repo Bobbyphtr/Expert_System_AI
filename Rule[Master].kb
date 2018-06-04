@@ -1,0 +1,390 @@
+RULE [1]
+If [itemManagement] = "yes"
+Then [survive] = "yes"
+
+RULE [2]
+If [limitedResources] = "yes"
+Then [survive] = "yes"
+
+RULE [3]
+If [itemManagement] = "no" and [limitedResources] = "no"
+Then [survive] = "no"
+
+RULE [4]
+If [useGun] = "yes"
+Then [shooter] = "yes"
+
+RULE [5]
+If [war] = "yes"
+Then [shooter] = "yes"
+
+RULE [6]
+If [useGun] = "no" and [war] = "no"
+Then [shooter] = "no"
+
+RULE [7]
+If [survive] = "yes" and
+[shooter] = "yes" and
+[paranormal] = "yes"
+Then [genreType] = "SH"
+
+RULE [8]
+If [survive] = "yes" and
+[shooter] = "yes" and
+[paranormal] = "no"
+Then [genreType] = "SS"
+
+RULE [9]
+If [survive] = "yes" and
+[shooter] = "no" and
+[paranormal] = "yes"
+Then [genreType] = "SH"
+
+RULE [10]
+If [survive] = "no" and
+[shooter] = "yes" and
+[paranormal] = "yes"
+Then [genreType] = "SH"
+
+RULE [11]
+If [survive] = "yes" and
+[shooter] = "no" and
+[paranormal] = "no"
+Then [genreType] = "survival"
+
+RULE [12]
+If [survive] = "no" and
+[shooter] = "yes" and
+[paranormal] = "no"
+Then [genreType] = "shooter"
+
+RULE [13]
+If [survive] = "no" and
+[shooter] = "no" and
+[paranormal] = "yes"
+Then [genreType] = "horror"
+
+RULE [14]
+If [survive] = "no" and
+[shooter] = "no" and
+[paranormal] = "no"
+Then [genreType] = "shooter"
+
+RULE [15]
+If [friends] = "yes"
+Then [playersType] = "multiplayer"
+
+RULE [16]
+If [opponent] = "bot" and [friends] = "no"
+Then [playersType] = "singleplayer"
+
+RULE [17]
+If [opponent] = "player" and [friends] = "no"
+Then [playersType] = "multiplayer"
+
+RULE [18]
+If [adultScene] = "yes"
+Then [parentalGuidance] = "mature"
+
+RULE [19]
+If [adultScene] = "no" and [gore] = "yes"
+Then [parentalGuidance]  = "mature"
+
+RULE [72]
+If [adultScene] = "no" and [gore] = "no"
+Then [parentalGuidance] = "everyone"
+
+RULE [20]
+If [dimension] = "2d"
+Then [graphic] = "low"
+
+RULE [21]
+If [openWorld] = "yes" and [dimension] = "3d"
+Then [graphic] = "high"
+
+RULE [22]
+If [openWorld] = "no" and [dimension] = "3d"
+Then [graphic] = "low"
+
+RULE [23]
+If [playersType] = "singleplayer"
+and [genreType] = "survival"
+Then [gameType] = "survival singleplayer"
+
+RULE [24]
+If [playersType] = "multiplayer"
+and [genreType] = "survival"
+Then [gameType] = "survival multiplayer"
+
+RULE [25]
+If [playersType] = "singleplayer"
+and [genreType] = "shooter"
+Then [gameType] = "shooter singleplayer"
+
+RULE [26]
+If [playersType] = "multiplayer"
+and [genreType] = "shooter"
+Then [gameType] = "shooter multiplayer"
+
+RULE [27]
+If [playersType] = "singleplayer"
+and [genreType] = "horror"
+Then [gameType] = "horror singleplayer"
+
+RULE [28]
+If [playersType] = "multiplayer"
+and [genreType] = "horror"
+Then [gameType] = "horror multiplayer"
+
+RULE [29]
+If [playersType] = "singleplayer"
+and [genreType] = "SS"
+Then [gameType] = "SS singleplayer"
+
+RULE [30]
+If [playersType] = "multiplayer"
+and [genreType] = "SS"
+Then [gameType] = "SS multiplayer"
+
+RULE [31]
+If [playersType] = "singleplayer"
+and [genreType] = "SH"
+Then [gameType] = "SH singleplayer"
+
+RULE [32]
+If [playersType] = "multiplayer"
+and [genreType] = "SH"
+Then [gameType] = "SH multiplayer"
+
+RULE [33]
+If [parentalGuidance] = "mature"
+and [gameType] = "survival singleplayer"
+and [graphic] = "high"
+Then [gameRecommendation] = "ARK Survival Evolved"
+
+RULE [34]
+If [parentalGuidance] = "mature"
+and [gameType] = "shooter singleplayer"
+and [graphic] = "high"
+Then [gameRecommendation] = "Call of Duty"
+
+RULE [35]
+If [parentalGuidance] = "mature"
+and [gameType] = "horror singleplayer"
+and [graphic] = "high"
+Then [gameRecommendation] = "JU-ON the Grudge"
+
+RULE [36]
+If [parentalGuidance] = "mature"
+and [gameType] = "SS singleplayer"
+and [graphic] = "high"
+Then [gameRecommendation] = "Far Cry 5"
+
+RULE [37]
+If [parentalGuidance] = "mature"
+and [gameType] = "SH singleplayer"
+and [graphic] = "high"
+Then [gameRecommendation] = "Outlast"
+
+RULE [38]
+If [parentalGuidance] = "mature"
+and [gameType] = "survival multiplayer"
+and [graphic] = "high"
+Then [gameRecommendation] = "Raft"
+
+RULE [39]
+If [parentalGuidance] = "mature"
+and [gameType] = "shooter multiplayer"
+and [graphic] = "high"
+Then [gameRecommendation] = "Call of Duty"
+
+RULE [40]
+If [parentalGuidance] = "mature"
+and [gameType] = "horror multiplayer"
+and [graphic] = "high"
+Then [gameRecommendation] = "Dead by Daylight"
+
+RULE [41]
+If [parentalGuidance] = "mature"
+and [gameType] = "SS multiplayer"
+and [graphic] = "high"
+Then [gameRecommendation] = "Resident Evil 5"
+
+RULE [42]
+If [parentalGuidance] = "mature"
+and [gameType] = "SH multiplayer"
+and [graphic] = "high"
+Then [gameRecommendation] = "State of Decay 2"
+
+RULE [43]
+If [parentalGuidance] = "everyone"
+and [gameType] = "survival singleplayer"
+and [graphic] = "high"
+Then [gameRecommendation] = "No Man’s Sky"
+
+RULE [44]
+If [parentalGuidance] = "everyone"
+and [gameType] = "shooter singleplayer"
+and [graphic] = "high"
+Then [gameRecommendation] = "Splatoons"
+
+RULE [45]
+If [parentalGuidance] = "everyone"
+and [gameType] = "horror singleplayer"
+and [graphic] = "high"
+Then [gameRecommendation] = "DreadOut"
+
+RULE [46]
+If [parentalGuidance] = "everyone"
+and [gameType] = "SS singleplayer"
+and [graphic] = "high"
+Then [gameRecommendation] = "Quantum Break"
+
+RULE [47]
+If [parentalGuidance] = "everyone"
+and [gameType] = "SH singleplayer"
+and [graphic] = "high"
+Then [gameRecommendation] = "Osiris : New Dawn"
+
+RULE [48]
+If [parentalGuidance] = "everyone"
+and [gameType] = "survival multiplayer"
+and [graphic] = "high"
+Then [gameRecommendation] = "Minecraft"
+
+RULE [49]
+If [parentalGuidance] = "everyone"
+and [gameType] = "shooter multiplayer"
+and [graphic] = "high"
+Then [gameRecommendation] = "Overwatch"
+
+RULE [50]
+If [parentalGuidance] = "everyone"
+and [gameType] = "horror multiplayer"
+and [graphic] = "high"
+Then [gameRecommendation] = "Zombiu"
+
+RULE [51]
+If [parentalGuidance] = "everyone"
+and [gameType] = "SS multiplayer"
+and [graphic] = "high"
+Then [gameRecommendation] = "Battlefield 4"
+
+RULE [52]
+If [parentalGuidance] = "everyone"
+and [gameType] = "SH multiplayer"
+and [graphic] = "high"
+Then [gameRecommendation] = "Left 4 Dead 2"
+
+RULE [53]
+If [parentalGuidance] = "mature"
+and [gameType] = "survival singleplayer"
+and [graphic] = "low"
+Then [gameRecommendation] = "Terraria"
+
+RULE [54]
+If [parentalGuidance] = "mature"
+and [gameType] = "shooter singleplayer"
+and [graphic] = "low"
+Then [gameRecommendation] = "Grand Theft Auto 3"
+
+RULE [55]
+If [parentalGuidance] = "mature"
+and [gameType] = "horror singleplayer"
+and [graphic] = "low"
+Then [gameRecommendation] = "Amnesia"
+
+RULE [56]
+If [parentalGuidance] = "mature"
+and [gameType] = "SS singleplayer"
+and [graphic] = "low"
+Then [gameRecommendation] = "Resident Evil 3/2/1"
+
+RULE [57]
+If [parentalGuidance] = "mature"
+and [gameType] = "SH singleplayer"
+and [graphic] = "low"
+Then [gameRecommendation] = "Doom"
+
+RULE [58]
+If [parentalGuidance] = "mature"
+and [gameType] = "survival multiplayer"
+and [graphic] = "low"
+Then [gameRecommendation] = "Starwars : The Old Republic"
+
+RULE [59]
+If [parentalGuidance] = "mature"
+and [gameType] = "shooter multiplayer"
+and [graphic] = "low"
+Then [gameRecommendation] = "Counter Strike Online"
+
+RULE [60]
+If [parentalGuidance] = "mature"
+and [gameType] = "horror multiplayer"
+and [graphic] = "low"
+Then [gameRecommendation] = "Project Zomboid"
+
+RULE [61]
+If [gameType] = "SS multiplayer"
+and [graphic] = "low"
+Then [gameRecommendation] = "Fortnite"
+
+RULE [62]
+If [parentalGuidance] = "mature"
+and [gameType] = "SH multiplayer"
+and [graphic] = "low"
+Then [gameRecommendation] = "7 Days to Die"
+
+RULE [63]
+If [parentalGuidance] = "everyone"
+and [gameType] = "survival singleplayer"
+and [graphic] = "low"
+Then [gameRecommendation] = "Team Buddies"
+
+RULE [64]
+If [parentalGuidance] = "everyone"
+and [gameType] = "shooter singleplayer"
+and [graphic] = "low"
+Then [gameRecommendation] = "Plant vs Zombies : Garden Warfare 2"
+
+RULE [65]
+If [parentalGuidance] = "everyone"
+and [gameType] = "horror singleplayer"
+and [graphic] = "low"
+Then [gameRecommendation] = "Luigi’s Mansion"
+
+RULE [66]
+If [parentalGuidance] = "everyone"
+and [gameType] = "SS singleplayer"
+and [graphic] = "low"
+Then [gameRecommendation] = "Dino Crisis"
+
+RULE [67]
+If [parentalGuidance] = "everyone"
+and [gameType] = "SH singleplayer"
+and [graphic] = "low"
+Then [gameRecommendation] = "Parasite Eve"
+
+RULE [68]
+If [parentalGuidance] = "everyone"
+and [gameType] = "survival multiplayer"
+and [graphic] = "low"
+Then [gameRecommendation] = "Roblox"
+
+RULE [69]
+If [parentalGuidance] = "everyone"
+and [gameType] = "shooter multiplayer"
+and [graphic] = "low"
+Then [gameRecommendation] = "Team Fortress 2"
+
+RULE [70]
+If [parentalGuidance] = "everyone"
+and [gameType] = "horror multiplayer"
+and [graphic] = "low"
+Then [gameRecommendation] = "Zombies Ate My Neighbors"
+
+RULE [71]
+If [parentalGuidance] = "everyone"
+and [gameType] = "SS multiplayer"
+and [graphic] = "low"
+Then [gameRecommendation] = "Noct"

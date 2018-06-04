@@ -1,0 +1,11 @@
+RULE [15]
+If [friends] = "yes"
+Then [playersType] = "multiplayer"
+
+RULE [16]
+If [opponent] = "bot" and [friends] = "no"
+Then [playersType] = "singleplayer"
+
+RULE [17]
+If [opponent] = "player" and [friends] = "no"
+Then [playersType] = "multiplayer"

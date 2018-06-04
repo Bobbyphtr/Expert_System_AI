@@ -1,0 +1,11 @@
+RULE [20]
+If [dimension] = "2d"
+Then [graphic] = "low"
+
+RULE [21]
+If [openWorld] = "yes" and [dimension] = "3d"
+Then [graphic] = "high"
+
+RULE [22]
+If [openWorld] = "no" and [dimension] = "3d"
+Then [graphic] = "low"

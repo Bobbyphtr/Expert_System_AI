@@ -1,0 +1,11 @@
+RULE [4]
+If [useGun] = "yes"
+Then [shooter] = "yes"
+
+RULE [5]
+If [war] = "yes"
+Then [shooter] = "yes"
+
+RULE [6]
+If [useGun] = "no" and [war] = "no"
+Then [shooter] = "no"

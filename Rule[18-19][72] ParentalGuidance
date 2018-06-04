@@ -1,0 +1,11 @@
+RULE [18]
+If [adultScene] = "yes"
+Then [parentalGuidance] = "mature"
+
+RULE [19]
+If [adultScene] = "no" and [gore] = "yes"
+Then [parentalGuidance]  = "mature"
+
+RULE [72]
+If [adultScene] = "no" and [gore] = "no"
+Then [parentalGuidance] = "everyone"
