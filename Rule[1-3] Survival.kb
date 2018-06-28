@@ -9,3 +9,6 @@ Then [survive] = "yes"
 RULE [3]
 If [itemManagement] = "no" and [limitedResources] = "no"
 Then [survive] = "no"
+
+
+Hello Push From VisualCode
